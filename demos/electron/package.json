@@ -4,7 +4,7 @@
 	"version": "0.0.0",
 	"main": "main.js",
 	"dependencies": {
-		"electron": "~1.7.x",
+		"electron": "~22.3.5",
 		"xlsx": "*"
 	}
 }
